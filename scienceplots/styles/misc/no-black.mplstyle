@@ -1,11 +1,11 @@
-text.color: "#626262"
-patch.edgecolor: "#626262"
-hatch.color: "#626262"
-axes.edgecolor: "#626262"
-# axes.titlecolor: "#626262" # should fallback to text.color
-axes.labelcolor: "#626262"
-xtick.color: "#626262"
-ytick.color: "#626262"
+text.color: 626262
+patch.edgecolor: 626262
+hatch.color: 626262
+axes.edgecolor: 626262
+# axes.titlecolor: 626262 # should fallback to text.color
+axes.labelcolor: 626262
+xtick.color: 626262
+ytick.color: 626262
 
 
 
